@@ -1,0 +1,9 @@
+.flag img{
+    height: 120px;
+    width: 180px;
+}
+.country-container{
+    border: 1px solid red;
+    margin: 5px;
+    padding:5px;
+}
